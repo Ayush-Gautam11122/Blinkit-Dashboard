@@ -119,7 +119,7 @@ The dataset contains Blinkit grocery sales information, including:
 ## 📸 Dashboard Preview
 
 > Add screenshots of your dashboard here.
-![Dashboard Overview]()
+![Dashboard Overview](https://github.com/Ayush-Gautam11122/Blinkit-Dashboard/blob/main/blinkit%20dashboard%20screenshot.jpg)
 Example:
 
 ```markdown
